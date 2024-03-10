@@ -15,6 +15,23 @@
       "bodyType": "heavily muscled",
       "weapon": "great axe",
       "promptAI": "Photorealistic portrait of a tan-skinned male barbarian dungeons and dragons character that has brown eyes, brown hair braided into a ponytail wielding a great axe."
+    },
+    {
+      "id": 2,
+      "name": "Elena Battlehammer",
+      "image": "https://github.com/lerodriguezreyes/dnd-character-generator/blob/main/src/assets/Elena.png?raw=true",
+      "level": 1,
+      "xp": 0,
+      "class": "Cleric",
+      "race": "human",
+      "eyeColor": "green",
+      "hairColor": "red",
+      "hairStyle": "ponytail",
+      "skinColor": "copper",
+      "bodyType": "stocky",
+      "weapon": "spear",
+      "armor": "plate mail",
+      "promptAI": "Photorealistic portrait of a copper-skinned female dwarf cleric in plate mail armor dungeons and dragons character that has green eyes, red hair in a ponytail wielding a spear."
     }
   ],
   "races": [
