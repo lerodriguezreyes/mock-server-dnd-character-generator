@@ -14,7 +14,8 @@
       "skinColor": "tan",
       "bodyType": "heavily muscled",
       "weapon": "great axe",
-      "promptAI": "Photorealistic portrait of a tan-skinned male barbarian dungeons and dragons character that has brown eyes, brown hair braided into a ponytail wielding a great axe."
+      "promptAI": "Photorealistic portrait of a tan-skinned male barbarian dungeons and dragons character that has brown eyes, brown hair braided into a ponytail wielding a great axe.",
+      "curentCampaign": "Dragon Heist"
     },
     {
       "id": 2,
@@ -31,6 +32,7 @@
       "bodyType": "stocky",
       "weapon": "spear",
       "armor": "plate mail",
+      "curentCampaign": "The Wild Beyond The Witchlight",
       "promptAI": "Photorealistic portrait of a copper-skinned female dwarf cleric in plate mail armor dungeons and dragons character that has green eyes, red hair in a ponytail wielding a spear."
     }
   ],
