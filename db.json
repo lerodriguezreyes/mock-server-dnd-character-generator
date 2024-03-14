@@ -15,7 +15,10 @@
       "bodyType": "heavily muscled",
       "weapon": "great axe",
       "promptAI": "Photorealistic portrait of a tan-skinned male barbarian dungeons and dragons character that has brown eyes, brown hair braided into a ponytail wielding a great axe.",
-      "campaign": "Dragon Heist"
+      "campaign": "Dragon Heist",
+      "mainWeapon": "Great Axe",
+      "rangedWeapon": "Sling",
+      "armor": "plate"
     },
     {
       "id": "2",
@@ -34,39 +37,6 @@
       "armor": "plate mail",
       "campaign": "The Wild Beyond The Witchlight",
       "promptAI": "Photorealistic portrait of a copper-skinned female dwarf cleric in plate mail armor dungeons and dragons character that has green eyes, red hair in a ponytail wielding a spear."
-    },
-    {
-      "name": "Erementari",
-      "campaign": "Shadows of Oblivion",
-      "sex": "cisgenderMale",
-      "race": "dragonborn",
-      "job": "barbarian",
-      "strAbility": "15",
-      "conAbility": "15",
-      "dexAbility": "16",
-      "intAbility": "16",
-      "wisAbility": "16",
-      "chaAbility": "14",
-      "hairColor": "blond",
-      "hairStyle": "braided hair",
-      "skinColor": "fair",
-      "bodyType": "muscled",
-      "background": "folkHero",
-      "mainWeapon": "greatAxe",
-      "rangedWeapon": "shortbow",
-      "armor": "leatherArmor",
-      "commonLanguage": true,
-      "dwarvishLanguage": true,
-      "giantLanguage": true,
-      "brewerSupplies": true,
-      "athletics": true,
-      "stealth": true,
-      "animalHandling": true,
-      "insight": true,
-      "survival": true,
-      "perception": true,
-      "intimidation": true,
-      "id": "3"
     }
   ]
 }
