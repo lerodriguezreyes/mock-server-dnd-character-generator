@@ -22,7 +22,7 @@
     },
     {
       "id": "2",
-      "name": "Elena Battlehammer",
+      "name": "Elena",
       "image": "https://github.com/lerodriguezreyes/dnd-character-generator/blob/main/src/assets/Elena.png?raw=true",
       "level": 1,
       "xp": 0,
@@ -35,7 +35,7 @@
       "bodyType": "stocky",
       "mainWeapon": "spear",
       "armor": "plate mail",
-      "campaign": "The Wild Beyond The Witchlight",
+      "campaign": "Beyond The Witchlight",
       "promptAI": "Photorealistic portrait of a copper-skinned female dwarf cleric in plate mail armor dungeons and dragons character that has green eyes, red hair in a ponytail wielding a spear."
     }
   ]
